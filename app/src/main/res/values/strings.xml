@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoElton</string>
+    <string name="main_title">To Do List Elton</string>
+    <string name="hint_edit_text">Touch to add</string>
+    <string name="list_title">Today</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_clear">Clear</string>
+
+
+</resources>
